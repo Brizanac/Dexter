@@ -1,2 +1,2 @@
-# WindowsFormsApp1
-Dexter aplikacija, programsko inženjerstvo u C#
+# Dexter aplikacija
+Kolegij Programskog inženjerstva u C#
